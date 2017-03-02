@@ -1,0 +1,7 @@
+https://secure.velocify.com/Import.aspx?Provider=ExpediteFinancial&Client=30451_20160916210002&XmlResponse=True
+
+https://secure.velocify.com/Import.aspx?Provider=ExpediteFinancial&Client=30451_20160916210002&XmlResponse=True&
+firstname=John&lastname=Doe&email=johndoe@myemail.com&dayphone=5551234567&eveningphone=5551234568&mobilephone=5551234569&city=Spring&state=TX&zipcode=77386
+
+
+test.salesforce.com/services/soap/c/35.0
